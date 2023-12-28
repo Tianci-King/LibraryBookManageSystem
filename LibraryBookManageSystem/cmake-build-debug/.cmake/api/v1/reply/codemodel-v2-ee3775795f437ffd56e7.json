@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LibraryBookManageSystem",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LibraryBookManageSystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LibraryBookManageSystem-Debug-8bb3475fa7a9573a7767.json",
+					"name" : "LibraryBookManageSystem",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/tiancy/Downloads/\u738b\u5929\u8d50\u6570\u636e\u7ed3\u6784\u8bfe\u8bbe/LibraryBookManageSystem/cmake-build-debug",
+		"source" : "/Users/tiancy/Downloads/\u738b\u5929\u8d50\u6570\u636e\u7ed3\u6784\u8bfe\u8bbe/LibraryBookManageSystem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LibraryBookManageSystem"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LibraryBookManageSystem">
+				<Option output="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/LibraryBookManageSystem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 LibraryBookManageSystem"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LibraryBookManageSystem/fast">
+				<Option output="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/LibraryBookManageSystem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 LibraryBookManageSystem/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/tiancy/Downloads/课设/LibraryBookManageSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/include/admin.h">
+			<Option target="LibraryBookManageSystem"/>
+		</Unit>
+		<Unit filename="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/include/adminMgt.h">
+			<Option target="LibraryBookManageSystem"/>
+		</Unit>
+		<Unit filename="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/include/book.h">
+			<Option target="LibraryBookManageSystem"/>
+		</Unit>
+		<Unit filename="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/include/fileOperation.h">
+			<Option target="LibraryBookManageSystem"/>
+		</Unit>
+		<Unit filename="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/include/libraryMgt.h">
+			<Option target="LibraryBookManageSystem"/>
+		</Unit>
+		<Unit filename="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/include/menuPrinter.h">
+			<Option target="LibraryBookManageSystem"/>
+		</Unit>
+		<Unit filename="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/include/rbTree.h">
+			<Option target="LibraryBookManageSystem"/>
+		</Unit>
+		<Unit filename="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/src/admin.cpp">
+			<Option target="LibraryBookManageSystem"/>
+		</Unit>
+		<Unit filename="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/src/adminMgt.cpp">
+			<Option target="LibraryBookManageSystem"/>
+		</Unit>
+		<Unit filename="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/src/book.cpp">
+			<Option target="LibraryBookManageSystem"/>
+		</Unit>
+		<Unit filename="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/src/fileOperation.cpp">
+			<Option target="LibraryBookManageSystem"/>
+		</Unit>
+		<Unit filename="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/src/libraryMgt.cpp">
+			<Option target="LibraryBookManageSystem"/>
+		</Unit>
+		<Unit filename="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/src/main.cpp">
+			<Option target="LibraryBookManageSystem"/>
+		</Unit>
+		<Unit filename="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/src/menuPrinter.cpp">
+			<Option target="LibraryBookManageSystem"/>
+		</Unit>
+		<Unit filename="/Users/tiancy/Downloads/课设/LibraryBookManageSystem/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

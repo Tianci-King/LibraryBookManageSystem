@@ -1,0 +1,3 @@
+/Users/tiancy/Downloads/王天赐数据结构课设/LibraryBookManageSystem/cmake-build-debug/CMakeFiles/LibraryBookManageSystem.dir
+/Users/tiancy/Downloads/王天赐数据结构课设/LibraryBookManageSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tiancy/Downloads/王天赐数据结构课设/LibraryBookManageSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

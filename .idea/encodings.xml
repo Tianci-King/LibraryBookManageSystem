@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/LibraryBookManageSystem/include/admin.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/LibraryBookManageSystem/include/adminMgt.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/LibraryBookManageSystem/include/book.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/LibraryBookManageSystem/include/libraryMgt.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/LibraryBookManageSystem/include/menuPrinter.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LibraryBookManageSystem/include/rbTree.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/LibraryBookManageSystem/src/adminMgt.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LibraryBookManageSystem/src/book.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LibraryBookManageSystem/src/libraryMgt.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LibraryBookManageSystem/src/main.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LibraryBookManageSystem/src/menuPrinter.cpp" charset="UTF-8" />
+  </component>
+</project>

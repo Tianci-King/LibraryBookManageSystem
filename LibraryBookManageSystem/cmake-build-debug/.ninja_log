@@ -1,0 +1,19 @@
+# ninja log v5
+1	155	1703724424406981909	build.ninja	ab102717844d3e50
+2	2282	1703644420907266182	CMakeFiles/LibraryBookManageSystem.dir/src/libraryMgt.cpp.o	f3e432f65f0e0550
+3	1856	1703644420471121372	CMakeFiles/LibraryBookManageSystem.dir/src/menuPrinter.cpp.o	1307e724f7020f07
+1	2208	1703644420831356715	CMakeFiles/LibraryBookManageSystem.dir/src/adminMgt.cpp.o	50cbd2c0e694cc70
+1	1868	1703644420471121663	CMakeFiles/LibraryBookManageSystem.dir/src/main.cpp.o	33fab0feefbb414
+3530	7005	7246037630762643	LibraryBookManageSystem.exe	b53917ef5bca4bf0
+1	1870	1703644420484569276	CMakeFiles/LibraryBookManageSystem.dir/src/admin.cpp.o	7c07d208ca13ca2c
+2679	2743	1703644421372844544	LibraryBookManageSystem	b59c1dd199a91e59
+0	1872	1703644420487613752	CMakeFiles/LibraryBookManageSystem.dir/src/book.cpp.o	d00cdfa59eb5d858
+1864	2679	1703644421306256835	CMakeFiles/LibraryBookManageSystem.dir/src/fileOperation.cpp.o	693f5fe1fc0f51c3
+6	1082	1703724509066943177	CMakeFiles/LibraryBookManageSystem.dir/src/menuPrinter.cpp.o	2a2dfb9245ec4d98
+5	1085	1703724509066930511	CMakeFiles/LibraryBookManageSystem.dir/src/main.cpp.o	583d076fb7f6cc8f
+5	1087	1703724509075493235	CMakeFiles/LibraryBookManageSystem.dir/src/admin.cpp.o	b8127b01da08576d
+5	1090	1703724509081954641	CMakeFiles/LibraryBookManageSystem.dir/src/book.cpp.o	f853d097eabf2806
+5	1287	1703724509282253447	CMakeFiles/LibraryBookManageSystem.dir/src/adminMgt.cpp.o	1a0f3d2a5e9f480a
+6	1337	1703724509334217815	CMakeFiles/LibraryBookManageSystem.dir/src/libraryMgt.cpp.o	f2a09c63b139f934
+1083	1657	1703724509656468656	CMakeFiles/LibraryBookManageSystem.dir/src/fileOperation.cpp.o	c7ef3939984050d1
+1657	1708	1703724509707657754	LibraryBookManageSystem	b59c1dd199a91e59
